@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void btn(View view) {
         btn = findViewById(R.id.btn);
-        btn.setText("oh yeah ive been clicked! ");
+        btn.setText("oh yeah ive been clicked!");
     }
 
 }
